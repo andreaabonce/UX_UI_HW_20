@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-top: 20px;
+}
+.section-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #B36F27;
+    background-color: #F8F9FA;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.section-content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dropdown-menu a {
+    color: #429015;
+}
+.dropdown-menu a:hover {
+    background-color: #F7F7F7;
+}
+.image-placeholder {
+    width: 100%;
+    height: 300px;
+    background-color: #F0F0F0;
+    margin-bottom: 10px;
+}
+.navbar-brand img {
+    height: 80px;
+}
+
+.tools {
+    height: 50px;
+}
+.myfooter {
+    text-align:center;
+    padding-right: 30px;
+    padding: 10px;
+    background-color: #d2f1d2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.myfooter-link {
+    color: #F7F7F7;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+}
